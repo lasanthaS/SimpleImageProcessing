@@ -1,0 +1,21 @@
+D:\ImageEditor\HistogramController\obj\Release\ResolveAssemblyReference.cache
+D:\ImageEditor\HistogramController\obj\Release\HistogramController.HistogramController.resources
+D:\ImageEditor\HistogramController\obj\Release\HistogramController.csproj.GenerateResource.Cache
+D:\ImageEditor\HistogramController\bin\Release\HistogramController.dll
+D:\ImageEditor\HistogramController\bin\Release\HistogramController.pdb
+D:\ImageEditor\HistogramController\obj\Release\HistogramController.dll
+D:\ImageEditor\HistogramController\obj\Release\HistogramController.pdb
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\bin\Release\HistogramController.dll
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\bin\Release\HistogramController.pdb
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\obj\Release\ResolveAssemblyReference.cache
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\obj\Release\HistogramController.HistogramController.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\obj\Release\HistogramController.csproj.GenerateResource.Cache
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\obj\Release\HistogramController.dll
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\obj\Release\HistogramController.pdb
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\bin\Release\HistogramController.dll
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\bin\Release\HistogramController.pdb
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\obj\Release\ResolveAssemblyReference.cache
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\obj\Release\HistogramController.HistogramController.resources
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\obj\Release\HistogramController.csproj.GenerateResource.Cache
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\obj\Release\HistogramController.dll
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\HistogramController\obj\Release\HistogramController.pdb

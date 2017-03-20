@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEditor", "ImageEditor\ImageEditor.csproj", "{64912992-A744-43C0-A6A5-893537336159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistogramController", "HistogramController\HistogramController.csproj", "{570CB065-2625-4A57-887F-0F59F869481C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64912992-A744-43C0-A6A5-893537336159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64912992-A744-43C0-A6A5-893537336159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64912992-A744-43C0-A6A5-893537336159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64912992-A744-43C0-A6A5-893537336159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570CB065-2625-4A57-887F-0F59F869481C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570CB065-2625-4A57-887F-0F59F869481C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570CB065-2625-4A57-887F-0F59F869481C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570CB065-2625-4A57-887F-0F59F869481C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

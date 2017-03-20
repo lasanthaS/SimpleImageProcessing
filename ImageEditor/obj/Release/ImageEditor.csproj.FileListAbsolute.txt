@@ -1,0 +1,50 @@
+D:\ImageEditor\ImageEditor\obj\Release\ResolveAssemblyReference.cache
+D:\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmImageEditor.resources
+D:\ImageEditor\ImageEditor\obj\Release\ImageEditor.Properties.Resources.resources
+D:\ImageEditor\ImageEditor\obj\Release\ImageEditor.csproj.GenerateResource.Cache
+D:\ImageEditor\ImageEditor\bin\Release\ImageEditor.exe
+D:\ImageEditor\ImageEditor\bin\Release\ImageEditor.pdb
+D:\ImageEditor\ImageEditor\bin\Release\HistogramController.dll
+D:\ImageEditor\ImageEditor\bin\Release\HistogramController.pdb
+D:\ImageEditor\ImageEditor\obj\Release\ImageEditor.exe
+D:\ImageEditor\ImageEditor\obj\Release\ImageEditor.pdb
+D:\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.exe
+D:\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.pdb
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.exe
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.pdb
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\ImageEditor.exe
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\ImageEditor.pdb
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\HistogramController.dll
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\HistogramController.pdb
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ResolveAssemblyReference.cache
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmImageEditor.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.Properties.Resources.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.csproj.GenerateResource.Cache
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmAbout.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmContrastStretch.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmHistEqualize.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmMeanSmoothing.resources
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.exe
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.pdb
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ResolveAssemblyReference.cache
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmAbout.resources
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmContrastStretch.resources
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmHistEqualize.resources
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmImageEditor.resources
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmMeanSmoothing.resources
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.Properties.Resources.resources
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.csproj.GenerateResource.Cache
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\ImageEditor.exe
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\ImageEditor.pdb
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\HistogramController.dll
+D:\D\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\HistogramController.pdb
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmIdealPassing.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmGaussianSmoothing.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmMedianSmoothing.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmSharpen.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmSobel.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmGrayscale.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\obj\Release\ImageEditor.frmCanny.resources
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\AForge.dll
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\AForge.Imaging.dll
+D:\BICT\3rd Year\Semester 1\CGnIP\Assignments\08020574\Source\ImageEditor\ImageEditor\bin\Release\AForge.Math.dll
